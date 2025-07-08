@@ -1,0 +1,9 @@
+With over a decade of experience as a Senior Solution Architect, I am passionate about transforming the retail and supply chain landscape through technology-driven innovation. My track record includes delivering solutions that streamline complex operations, drive down costs, and significantly enhance customer satisfaction for some of the world’s most recognized brands.
+
+I have deep expertise in implementing Sterling OMS and Blue Yonder Decisioning, enabling seamless omni-channel order management and fulfillment for global retailers. My hands-on approach to optimizing supply chain processes has consistently improved efficiency and agility, empowering businesses to respond swiftly to market demands.
+
+A strong believer in the power of artificial intelligence, I recently led the development of an advanced e-commerce chatbot that leverages AI, machine learning, and generative AI to provide real-time, personalized support. By building robust knowledge bases and utilizing state-of-the-art prompting techniques, I have elevated the customer experience and delivered measurable business value.
+
+My technical foundation spans microservices architecture, cloud-native solutions, and open source technologies, allowing me to design and deploy scalable, future-ready platforms. I thrive in fast-paced, collaborative environments where business needs meet cutting-edge technology, and I am always eager to learn, adapt, and drive digital transformation.
+
+I am excited to connect with professionals in supply chain, retail, and technology who share a passion for innovation. Let’s collaborate to create impactful solutions and shape the future of commerce together.
